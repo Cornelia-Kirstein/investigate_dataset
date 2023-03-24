@@ -1,6 +1,5 @@
 # investigate_dataset
-Udacity_Data-Analyst_Investigate_Dataset
-##TMDB - Movies
+Udacity_Data-Analyst_Investigate_Dataset // TMDB - Movies
 ## Date creatded
 24.03.2023
 ## Description
